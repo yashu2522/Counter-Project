@@ -17,14 +17,6 @@ This project demonstrates basic DOM manipulation and event handling.
 * Reset counter to 0
 * Dynamic background color changes based on action
 
-## 📸 Preview
-
-![Screenshot](screenshot.png)
-
-## 🔗 Live Demo
-
-(Add your Netlify / GitHub Pages link here)
-
 ## 📚 What I Practiced
 
 * DOM manipulation using `getElementById`
